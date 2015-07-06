@@ -1,0 +1,4 @@
+driven-plugin-*.jar
+.idea
+*~
+target
