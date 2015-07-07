@@ -62,7 +62,7 @@ assemblyMergeStrategy in assembly := {
 
     case PathList("javax", "el", cl @_*) => MergeStrategy.rename
 
-    case PathList("com", "google", "common", "base", "Stopwatch$1.class") => takeGuavaFixMergeStrategy // first is aaaaa.goddamnit
+    case PathList("com", "google", "common", "base", "Stopwatch$1.class") => takeGuavaFixMergeStrategy // first is aaaaa.acmecorp
     case PathList("com", "google", "common", "base", "Stopwatch.class") => takeGuavaFixMergeStrategy
     case PathList("com", "google", "common", "io", "Closeables.class") => takeGuavaFixMergeStrategy
 
