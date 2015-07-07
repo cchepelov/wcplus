@@ -60,11 +60,6 @@ libraryDependencies ++= Seq(
 
 
 libraryDependencies ++= Seq(
-  /*
-	"com.twitter" %% "scalding" % scaldingVersion
-      exclude("cascading", "cascading-core")
-      exclude("cascading", "cascading-hadoop")
-      exclude("cascading", "cascading-local"), */
   "com.twitter" %% "scalding-core" % scaldingVersion
     exclude("cascading", "cascading-core")
     exclude("cascading", "cascading-hadoop")
@@ -84,39 +79,24 @@ libraryDependencies ++= Seq(
     exclude("org.apache.hadoop", "hadoop-core")
     exclude("com.hadoop.gplcompression", "hadoop-lzo")
   // hadoop-lzo also pulled in by elephantbird
-
-  //"com.backtype" % "dfs-datastores" % "1.3.6"
-  // "com.twitter" %% "scalding-avro" % scaldingVersion,
-  // "com.twitter" %% "scalding-parquet" % scaldingVersion,
 )
 
 
 
 libraryDependencies ++= Seq(
-  "com.typesafe.scala-logging" %% "scala-logging" % "3.1.0",
-
   "org.apache.thrift" % "libthrift" % "0.9.1",
 
   "cascading" % "cascading-core" % cascadingVersion,
   "cascading" % "cascading-hadoop" % cascadingVersion % "provided",
   //"cascading-hbase" % "cascading-hbase-hadoop" % cascadingVersionHbase % "provided" exclude("org.apache.hbase", "hbase-server"),
-    /* WARNING: you MUST
-          exclude("cascading","cascading-hadoop")
-          exclude("cascading-hbase","cascading-hbase-hadoop")
-          exclude("org.apache.hadoop", "hadoop-core")
-
-          while importing scalding-utils, and then provide your own backend-switching logic.
-     */
 
   "cascading" % "cascading-local" % cascadingVersion % "provided"
-
 )
 
 
 libraryDependencies ++= Seq(
   "org.apache.hadoop" % "hadoop-hdfs" % hadoopVersion
     exclude("com.sun.jersey", "jersey-server"),
-
 
   "cascading" % ("cascading-" + cascadingFabric) % cascadingVersion,
   "cascading-hbase" % ("cascading-hbase-" + cascadingFabric) % cascadingVersionHbase exclude("org.apache.hbase", "hbase-server"),
@@ -138,15 +118,3 @@ libraryDependencies ++= Seq(
     )
   })
 
-
-
-
-credentials += Credentials(Path.userHome / ".ivy2" / "devtools.lan.par.transparencyrights.com.credentials")
-
-publishTo <<= version { (v: String) =>
-  val artifactory = "http://devtools.lan.par.transparencyrights.com:8081/artifactory"
-  if (v.trim.endsWith("SNAPSHOT"))
-    Some("snapshots" at artifactory + "/libs-snapshot-local")
-  else
-    Some("releases" at artifactory + "/libs-release-local")
-}
