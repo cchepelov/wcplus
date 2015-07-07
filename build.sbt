@@ -19,8 +19,8 @@ resolvers += Resolver.mavenLocal
 
 
 libraryDependencies ++= Seq(
-  "aaaaa.goddamnit" %% "guava-fix" % "1.0.2",
-  "aaaaa.goddamnit" %% "guava-fix" % "1.0.2" % "test",
+  "aaaaa.acmecorp" %% "guava-fix" % "1.0.4",
+  "aaaaa.acmecorp" %% "guava-fix" % "1.0.4" % "test",
   "com.google.guava" % "guava" % "18.0"
 )
 
