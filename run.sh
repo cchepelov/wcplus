@@ -54,7 +54,7 @@ time hadoop jar $JAR \
     --filter ${FILTER:-false} --manygrams ${NGRAMS:-5} --fakeMedian ${FAKEMEDIAN:-false} --crash ${CRASH:-true} \
     --root wcplus \
     --tez-partitions $TEZ_PARTITIONS \
-    --tez.lib.uris hdfs://tpcy-par/apps/tez-0.6/tez-0.6.2-SNAPSHOT.tar.gz \
+    --tez.lib.uris hdfs://tpcy-par/apps/tez-0.6/tez-0.6.2-SNAPSHOT-guavafix.tar.gz \
     --queue prod
     
     

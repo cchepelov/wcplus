@@ -7,6 +7,7 @@ import com.twitter.scalding._
 import TDsl._
 import com.twitter.scalding.mathematics.Histogram
 import com.twitter.scalding.typed.ValuePipe
+import com.typesafe.scalalogging.LazyLogging
 
 case class StringAndCount(value: String, count: Int) extends Serializable { }
 case class StringAndScore(value: String, score: Double) extends Serializable { }
@@ -20,9 +21,9 @@ object StringAndScoreMed {
 /**
  * Created by cchepelov on 02/07/15.
  */
-class MakeWordQueriesJob(args: Args) extends CommonJob(args) with Serializable {
+class MakeWordQueriesJob(args: Args) extends CommonJob(args) with Serializable with LazyLogging {
   val root = args.getOrElse("root", ".")
-  val inputs = args.getOrElse("inputs", root + "/" + "books/")
+  val inputs = args.getOrElse("inputs", root + "/" + "books")
   val doFilter = args.getOrElse("filter", "false").toBoolean
   val doMedian = ! args.getOrElse("fakeMedian", "false").toBoolean
   val manygrams = args.getOrElse("manygrams", "5").toInt
@@ -34,11 +35,16 @@ class MakeWordQueriesJob(args: Args) extends CommonJob(args) with Serializable {
       .map(_.toLowerCase(Locale.US))
   }
 
+  val s = TypedPipe.from(TextLine(inputs))
 
-  val s = TypedPipe.from(MultipleTextLineFiles(inputs))
-
-
-  val text = s.filterNot(_.trim.isEmpty).map(x => splitCleanString(x))
+  val text = (if (isTez) {
+      s.filterNot(_.trim.isEmpty)
+        .forceToDisk // Tez trick; or most of the work happens in a single node (bad). Measured to be a wash on hadoop
+            // conditionalizing the .forceToDisk to remain "on the safe side" for now.
+    } else {
+      s.filterNot(_.trim.isEmpty)
+    })
+    .map(x => splitCleanString(x))
 
   def nGrams(size: Int) = size match {
     case 1 => text.flatMap(s => s.toSet)

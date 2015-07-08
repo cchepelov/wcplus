@@ -13,6 +13,8 @@ import scala.language.implicitConversions
  *
  */
 abstract class CommonJob(args: Args) extends Job(args) {
+  protected val isTez = args.boolean("hadoop2-tez")
+
   /**
    * Keep 100k tuples in memory by default before spilling
    * Turn this up as high as you can without getting OOM.
@@ -69,6 +71,9 @@ object SroJob {
 
       // "keep.failed.task.files" -> "true",
     ) ++ (if (isTez) Map(
+           /* EXPERIMENTAL cchepelov 06MAY15 following ckw/sve discussion: restore pre-2.6.0 behaviour with 'identical' taps */
+      "cascading.multimapreduceplanner.collapseadjacentaps" -> "false",
+
       "tez.task.launch.cmd-opts" -> (
         //"-XshowSettings -Xdiag -verbose:class " +
         //"-XX:+TraceClassLoading -XX:+TraceLoaderConstraints " + "-XX:+TraceClassResolution " +
@@ -84,7 +89,7 @@ object SroJob {
       "tez.task.resource.memory.mb" -> (1024+512).toString, // default 1024
       "tez.container.max.java.heap.fraction" -> "0.7", // default 0.8
 
-      "tez.am.mode.session" -> "true",
+      "tez.am.mode.session" -> "false",
       "tez.am.container.idle.release-timeout-min.millis" -> "10000",
       "tez.am.container.idle.release-timeout-max.millis" -> "60000",
 

@@ -1,0 +1,1322 @@
+﻿The Project Gutenberg EBook of Subspeciation in the Meadow Mouse, Microtus
+pennsylvanicus, in Wyoming, Colorado, and Adjacent Areas, by Sydney Anderson
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Subspeciation in the Meadow Mouse, Microtus pennsylvanicus, in Wyoming, Colorado, and Adjacent Areas
+
+Author: Sydney Anderson
+
+Release Date: July 19, 2010 [EBook #33204]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SUBSPECIATION IN THE MEADOW MOUSE ***
+
+
+
+
+Produced by Chris Curnow, Joseph Cooper and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+UNIVERSITY OF KANSAS PUBLICATIONS
+MUSEUM OF NATURAL HISTORY
+
+Volume 9, No. 4, pp. 85-104, 2 figs. in text
+May 10, 1956
+
+
+
+Subspeciation in the Meadow Mouse, Microtus pennsylvanicus,
+in Wyoming, Colorado, and Adjacent Areas
+
+
+
+BY
+
+SYDNEY ANDERSON
+
+UNIVERSITY OF KANSAS
+LAWRENCE
+1956
+
+
+
+UNIVERSITY OF KANSAS PUBLICATIONS, MUSEUM OF NATURAL HISTORY
+
+Editors: E. Raymond Hall, Chairman, A. Byron Leonard, Robert W. Wilson
+
+Volume 9, No. 4, pp. 85-104, 2 figures in text
+
+Published May 10, 1956
+
+UNIVERSITY OF KANSAS
+Lawrence, Kansas
+
+PRINTED BY
+FRED VOILAND, JR., STATE PRINTER
+TOPEKA, KANSAS
+1956
+
+
+
+
+Subspeciation in the Meadow Mouse, Microtus pennsylvanicus,
+in Wyoming, Colorado, and Adjacent Areas
+
+BY
+
+SYDNEY ANDERSON
+
+
+INTRODUCTION
+
+In the region including Wyoming and Colorado, _Microtus pennsylvanicus_
+has been divided into two subspecies: the pale _M. p. insperatus_ (J.
+A. Allen) inhabits the Black Hills of the northeasternmost part of
+Wyoming; the dark _M. p. modestus_ (Baird) inhabits extensive areas
+in both Wyoming and Colorado. Initial examination of _Microtus
+pennsylvanicus_ revealed that specimens from the Big Horn Mountains of
+north-central Wyoming (within the range of _modestus_ as mapped by Hall
+and Cockrum 1952:407), in color at least, resemble the subspecies
+_insperatus_ more than they do _modestus_, and that specimens from
+southwestern Wyoming are notably dark. Durrant (1952:363) noted that
+specimens from Utah are dark, and Davis (1939:315) did the same for
+specimens from near Pocatello, Idaho. It seemed, therefore, that dark
+color might characterize populations of a wide geographic region and
+distinguish them from _modestus_ named from southern Colorado. Also,
+there seemed to be a hiatus of at least 180 miles between the ranges of
+_modestus_ in northern Colorado and _modestus_ in eastern Wyoming, and
+an even greater distance separating populations of _modestus_ in
+northern Colorado from those in western Wyoming. _Microtus
+pennsylvanicus_ has not been taken in central or southeastern Wyoming
+despite extensive collecting there, which yielded numerous records of
+other kinds of _Microtus_ (_M. longicaudus_, _M. montanus_, and _M.
+ochrogaster_). Subsequent study revealed a pattern of geographic
+variation within the range now ascribed to _modestus_ which, in my
+opinion, can be described best by the recognition of three new
+subspecies.
+
+
+MATERIALS, METHODS, AND ACKNOWLEDGMENTS
+
+To study geographic variation in color a method was devised as follows:
+A single skin (KU 42407, from 1-1/2 miles east of Buckhorn in Weston
+County, Wyoming) was selected as a representative of the paler mice and
+arbitrarily given the number 2. A single skin (KU 17491, from 3 miles
+east of Moran in Teton County, Wyoming) was selected as a
+representative of the darker mice from the western part of Wyoming and
+arbitrarily given the number 4. These mice were selected so that they
+were respectively paler and darker than the estimated average of the
+total variation within the populations to be studied, but the two mice
+were not at the extremes of paleness and darkness. Comparisons were
+based on visual inspection of the dorsal pelage as a whole. Skins were
+compared with these two mice and given whole numbers from one to five.
+If paler than the standard for 2, the skin was numbered one; if not
+distinguishably paler or darker, it was given the number two; if
+intermediate in color to the standards for 2 and 4 and not definitely
+more nearly referable to one than the other, it was given the number
+three; if it resembled the standard for 4, it was numbered four; and if
+darker, it was given the number five. In this manner skins from a given
+locality could be evaluated one by one and the results plotted,
+averaged, and treated statistically. On Figure 1 the average values for
+color of 32 series are mapped to show the geographic variation of
+color. The following series of adults are the basis for Figure 1
+(abbreviations for collections other than at the University of Kansas
+are included in parentheses): Each locality is followed by the month
+(or months) of capture, the number of specimens, and the average value
+for color.
+
+    _Montana_: Glacier County, August, 6, 1.8; Hill and Chouteau
+    counties combined (Mich), July, 24, 1.5; Malta, Philips County,
+    August, 14, 1.5; Sheridan County, August, 6, 1.5; Fergus County
+    (USBS), August, 5, 2.4; Ravalli County (KU and USBS), August, 12,
+    2.8; Silver Bow County, August, 7, 3.0; Sweet Grass County (Mich),
+    June and July, 7, 2.7; Park County, August, 10, 2.6. _Idaho_:
+    Pocatello and vicinity, November and December, 5, 3.4. _Wyoming_:
+    Park County, August, 6, 2.8; Sheridan County, September, 9, 1.2;
+    Johnson County, August, 12, 1.5; Campbell and Crook counties, July,
+    11, 1.4; Weston County, July, 7, 1.6; Teton County, September, 8,
+    3.4; Teton County (Mich), June, 17, 3.1; Afton and vicinity,
+    Lincoln County, July, 10, 4.2; Sage, Lincoln County, July, 5, 5.0.
+    _South Dakota_: Pennington County (Chi), June, 14, 2.1; Pennington
+    County (Mich), December and January, 8, 1.1; Walworth County, July,
+    4, 3.7; Buffalo County, July, 6, 3.2. _Colorado_: Loveland and
+    vicinity, Larimer County (KU and USBS), July, 13, 2.8; Boulder
+    County (Chi), September, 34, 2.6; Park County (Denv), March, 8,
+    1.9; Colorado Springs (ERW), March, April, and May, 5, 2.8;
+    Saguache County (USBS), August, 46, 3.0; Conejos County, June, 4,
+    3.0; Wray, Yuma County (USBS), 3, 4.7. _Nebraska_: Dundy County,
+    August and November, 14, 4.6. _New Mexico_: Colfax County, June, 8,
+    3.2. Variation in color is discussed in the accounts of the
+    subspecies concerned.
+
+[Illustration: FIGURE 1. Geographic variation in color in _Microtus
+pennsylvanicus_ in the Rocky Mountains. Paler colors are represented
+by smaller numbers. Numbers are derived from the series of specimens
+listed in the text by the method described there. The subspecies that
+occur in the region studied are as follows:
+
+    _a. M. p. pullatus_
+    _b. M. p. insperatus_
+    _c. M. p. uligocola_
+    _d. M. p. finitus_
+    _e. M. p. modestus_
+    _f. M. p. aztecus_
+    _g. M. p. drummondi_
+    _h. M. p. pennsylvanicus_]
+
+    For each of the series listed in Table 1 all adult mice having
+    skulls that measured more than 24.0 mm. in condylobasilar length
+    were studied. Total length, length of tail, and length of hind foot
+    were taken from the collector's field labels. The measurements of
+    the skulls listed below were taken by means of dial calipers
+    reading to one-tenth of a millimeter, and in the same fashion as
+    described previously (Anderson, 1954:492). Measurements of
+    specimens in each series were averaged (the arithmetic means were
+    computed). If the averages differed noticeably the significance of
+    the difference was tested statistically. Averages referred to in
+    the text as significantly different differ by as much as, or more
+    than, the sum of two times the standard error of each of the two
+    averages. Linear measurements are in millimeters; color values are
+    in the arbitrary units described in a preceding paragraph.
+    Measurements taken of the skulls are: condylobasilar length,
+    zygomatic breadth, interorbital breadth, lambdoidal breadth,
+    prelambdoidal breadth, depth of braincase, and alveolar length of
+    upper molar tooth-row.
+
+    Secondary sexual variation was not detected in the material
+    studied. Variation with age is important to the taxonomist even
+    among specimens designated as "adults", because growth and changes
+    in various proportions continue throughout the life of the mice.
+    The possibility that differences detected in the statistical
+    treatment or observed directly could be the result of differences
+    in average age within the samples of "adults" was considered in
+    each case.
+
+In order to study certain variations, the following "method of pairs"
+was used. Skulls of two series to be compared were matched in pairs so
+that they corresponded in size and ontogenetic stage of development.
+Then the two skulls of each pair were examined for differences in each
+of the following features: size of circle inscribed by the upper
+incisor teeth, width of nasal bones relative to their length, curvature
+of the zygomatic arch, elongation of the braincase relative to its
+width when viewed from the dorsal aspect, degree of indentation in the
+anterior edge of the zygomatic arch near the rostrum, degree of
+depression of the nasal bones when viewed from the side, width in the
+vertical plane of the zygomatic arch at the suture between the
+maxillary and jugal bones, length relative to width of the prominent
+fenestra in the posterodorsal part of the squamosal bone, size of the
+meatus of the auditory canal, distance between the internal margin of
+an occipital condyle at its posteriormost point and the tip of the
+paraoccipital process of the same side of the skull, size of the
+foramen magnum, vertical height of the supraoccipital bone from the
+dorsalmost point on the margin of the foramen magnum to the midpoint of
+the lambdoidal crest, constriction posteriorly or narrowness of the
+incisive foramen relative to its length, distance across the
+premaxillary bone from the anteriormost point of the incisive foramen
+to the posteriormost point of the margin of the alveolus of the upper
+incisor, area of the maxillary septum (Howell 1926:112, or "zygomatic
+plate" of Ellerman 1941:1), acuminateness of the anterior border of the
+palatine opening (internal nares), size of auditory bullae, size of
+foramen ovale, acuteness of the angle between the basioccipital and
+basisphenoidal bones at the suture between them (degree to which the
+area of the suture is raised between the bullae when viewed from the
+ventral aspect), width of first upper molar tooth, least distance
+between alveoli of first upper molars. Any differential feature present
+in more than 75 per cent of the pairs of animals is reported in the
+discussion of the subspecies concerned. The significance of each
+difference reported was calculated by the Chi-square test and the
+confidence limit is given in each case. The probability used in the
+Chi-square formula is one-half of the percentage of all pairs compared
+in which the skulls were different in regard to the character being
+considered. For example, in 68 per cent of the total number of pairs of
+skulls compared in this study a difference in the size of the auditory
+bullae was noted. Therefore the probability that a specified skull of a
+pair will have larger bullae than the other skull was taken as 34 per
+cent. A different probability for each feature compared was derived in
+like manner.
+
+    This study is concerned primarily with mice from Wyoming and
+    Colorado; I realize, however, that the physiographic and ecological
+    conditions important to the distribution and subspeciation of
+    _Microtus pennsylvanicus_ do not correspond to political
+    boundaries. Geographic variation within these two states can be
+    seen in proper perspective only when related to the neighboring
+    areas and to previous studies. I have attempted to do this in the
+    accounts of the subspecies.
+
+    Approximately five months in the field in Wyoming and Colorado in
+    the summers of 1950, 1951, 1952, and 1953 gave me a familiarity
+    with the region that has helped to clarify the pattern of
+    distribution. My study was based, in addition, on 762 specimens
+    that are listed under "specimens examined" in the accounts of
+    subspecies, and on comparative material from other states. Most of
+    these specimens are skins with skulls but some are skins only and
+    others are skulls only. Some localities are represented by too few
+    adult individuals to permit significant comparisons. Owing to
+    damaged skulls, certain measurements of some specimens were omitted
+    from the calculations. If it seemed that the damaged skull was
+    exceptionally large or small or a deviant in any other regard it
+    was not used, in order not to bias the computed averages, which
+    might be used in comparing proportions of the skulls. In the lists
+    of specimens examined, localities that are omitted from Figure 2
+    because overlapping or undue crowding of the symbols would have
+    resulted are _italicized_.
+
+[Illustration: FIGURE 2. Distribution of the subspecies of _Microtus
+pennsylvanicus_ in Wyoming and Colorado. Solid dots represent
+localities from which specimens have been examined, and triangles
+represent localities reported in the literature from which I have not
+examined specimens. The question mark in southern Colorado denotes a
+questionable record discussed in the text.
+
+    A. _M. p. pullatus_
+    B. _M. p. insperatus_
+    C. _M. p. uligocola_
+    D. _M. p. finitus_
+    E. _M. p. modestus_
+    F. _M. p. aztecus_]
+
+    I am grateful to Professor E. Raymond Hall for critical reading of
+    the manuscript and helpful suggestions, to Dr. Rollin H. Baker and
+    various of my fellow students at the Museum of Natural History for
+    stimulating comments pertinent to the problems involved in this
+    study, to my wife, Justine Anderson, for assistance in the
+    preparation of the manuscript, to numerous members of field parties
+    from the Museum of Natural History, who collected much of the
+    material studied, and to the curators and other persons, at the
+    museums listed below, who courteously made specimens available for
+    study. The field work of the Museum of Natural History was assisted
+    by the Kansas University Endowment Association. A National Science
+    Foundation Fellowship made it possible for me to visit the museums
+    listed below. An honorarium awarded by the American Society of
+    Mammalogists enabled me to present this paper at the 34th Annual
+    Meeting of the Society, in June of 1954. Unless otherwise
+    indicated, specimens are in the University of Kansas Museum of
+    Natural History. Specimens in other museums are designated beyond
+    as follows: American Museum of Natural History (AMNH); Museum of
+    Zoology, University of Michigan (Mich); Chicago Natural History
+    Museum (Chi); United States National Museum (USNM); Biological
+    Surveys Collection (USBS); Museum of Vertebrate Zoology, Berkeley,
+    California (MVZ); Colorado Museum of Natural History, Denver
+    (Denv); E. R. Warren collection, Colorado College, Colorado Springs
+    (ERW); University of Colorado Museum, Boulder (UC).
+
+
+ACCOUNTS OF SUBSPECIES
+
+Microtus pennsylvanicus modestus (Baird)
+
+        _Arvicola modesta_ Baird, Repts. Expl. and Surv...., pt. 1,
+        Mammals, p. 535, July 14, 1858.
+
+        _Microtus pennsylvanicus modestus_, Bailey, N. Amer. Fauna,
+        17:20, June 6, 1900.
+
+    _Type._--Immature specimen (sex not specified), skin and skull,
+    number of skin 594, number of skull 1717, deposited in the
+    collections of the Smithsonian Institution, obtained by F.
+    Kreutzfeldt, Sawatch Pass, Rocky Mountains [=Saguache Pass or
+    Cochetopa Pass, Saguache County, Colorado], exact date unknown. I
+    have not examined the type specimen.
+
+    _Range._--Northern New Mexico, and southern Colorado (see list of
+    specimens and Fig. 2).
+
+    _Comparisons._--For comparison with the subspecies newly described
+    below from northern Colorado see the account of that subspecies.
+    The subspecies _M. p. aztecus_ has been compared with _M. p.
+    modestus_ by Hall and Cockrum (1952:308) who reduced _aztecus_ to
+    subspecific rank. Although _aztecus_ is separated by approximately
+    100 miles from _modestus_, and although no proof of intergradation
+    is available, my studies of variation in this species lead me to
+    agree with Hall and Cockrum that "the morphological differences
+    between the two kinds of animals are of the degree and kind that
+    separate subspecies, rather than species." A more adequate series
+    of adults of _aztecus_ is needed to clarify even the subspecific
+    differences between _aztecus_ and _modestus_.
+
+    _Measurements._--Averages, extremes, and standard deviations of a
+    number of series are included in Table 1 in order to facilitate
+    comparisons between different subspecies.
+
+_Remarks._--The dividing line between _M. p. modestus_ and the
+subspecies to the north on Figure 2 is drawn somewhat arbitrarily
+because few specimens are available from this area. Actual
+intergradation, in the form of a geographically intermediate population
+also morphologically intermediate between these two subspecies, is
+lacking. However, in most populations of both subspecies some
+individuals are intermediate between the two subspecies or even more
+like the other subspecies than the one to which they are referred.
+Warren (1942:226) states that _modestus_ has been recorded from Lake
+County, although no reference to a specimen is given. Bailey (1900:21)
+cites Twin Lakes, in Lake County. That county is near the dividing line
+as I have drawn it, and therefore specimens from Lake County would be
+of special interest. An isolated colony of _modestus_ occurs at San
+Rafael in Valencia County, New Mexico (Bailey, 1932:201). A hiatus of
+approximately 150 miles separates that colony from the southernmost
+locality shown in Figure 2. A single specimen, the skin of an immature
+_Microtus_ without skull, from Trinchera, Colorado, taken by L. R.
+Hersey in 1912, is in the Colorado Museum of Natural History. No
+species of Microtine has been recorded from within 50 miles of this
+locality. The specimen is seemingly more like _M. pennsylvanicus_ than
+any other species of _Microtus_. This locality is represented in Figure
+2 by a question mark. Ecologically _M. montanus fusus_ Hall and _M.
+longicaudus mordax_ (Merriam) in the same region occupied by _modestus_
+seem to be more montane than _modestus_. It favors lush grass on the
+wet floors of alluvial valleys, and also irrigated areas such as that
+at Manassa.
+
+    _Specimens examined._--Total 130. _Colorado_: CHAFFEE CO.: Salida,
+    3 (ERW). SAGUACHE CO.: Monshower Meadows, 27 mi. NW Saguache [=3
+    mi. E Cochetopa Pass], 8 (USBS); _Tevebaugh's Ranch, 20 mi. W
+    Saguache_, 46 (USBS, there are additional specimens not examined in
+    detail by me); _Cochetopa Pass, 33 mi. W Saguache_, 1; 3 mi. N, 16
+    mi. W Saguache, 8500 ft., 5; 5 mi. NW Hooper, 1 (AMNH); Medano
+    Ranch, 15 mi. NE Mosca, 2 (1 ERW, 1 USBS). CUSTER CO.: Westcliffe,
+    7800 ft., 1 (ERW). ALAMOSA CO.: _Hooper_, 10 (2 AMNH, 8 Denv);
+    _Mosca_, 3 (ERW). CONEJOS CO.: 1-1/2 mi. E Manassa, 11. COSTILLA
+    CO.: Alamosa, 3 (Mich); 2 mi. S Blanca, 7800 ft., 6 (MVZ). _New
+    Mexico_: TAOS CO.: Arroyo Hondo, 7600 ft., 6 (USBS); Taos, Pueblo,
+    1 (USNM). COLFAX CO.: 1 mi. S, 2 mi. E Eagle Nest, 8100 ft., 21;
+    Taos Mountains, east slope, 8800 ft., 1 (USBS); _Coyote Creek_, 1
+    (USBS).
+
+
+Microtus pennsylvanicus uligocola new subspecies
+
+    _Type._--Adult male, skin and skull, number 26898, University of
+    Kansas, Museum of Natural History, obtained by James O. Lounquist,
+    original number 349, 6 miles west and 1/2 mile south of Loveland,
+    5200 ft., Larimer Co., Colorado, on July 26, 1948.
+
+    _Range._--Northern Colorado. See Figure 2 and list of specimens
+    examined.
+
+    _Diagnosis._--Entire animal and skull large; color average for the
+    species, neither extremely pale or dark in summer pelage; molar
+    tooth-row long; nasals narrow; maxillary septum large; first upper
+    molar wide; anterior margin of zygomatic arch above infraorbital
+    foramen not deeply indented; fenestrae in posterodorsal parts of
+    squamosal bones relatively long; braincase not elongate; auditory
+    bullae and meatus large.
+
+    _Comparisons._--From _M. p. modestus_, _M. p. uligocola_ differs as
+    follows: averages paler; prelambdoidal breadth and alveolar length
+    of molar tooth-row significantly greater. Six pairs of skulls were
+    compared. Of the features listed above under the "method of pairs"
+    only two features differed in more than 75 per cent of the pairs;
+    in 5 of 6 pairs _uligocola_ had a less distinctly indented anterior
+    margin of the zygomatic arch (Confidence Limit .95) and a more
+    elongate posterodorsal squamosal fenestra (C. L. .85). Seven pairs
+    of skulls from Boulder, Colorado, representing _uligocola_ and from
+    Colfax County, New Mexico, representing _modestus_ differed in more
+    than 75 per cent of the pairs in three features. Only one of these
+    differences, the elongation of the posterodorsal squamosal
+    fenestra, was the same as a difference noted above between
+    topotypes of _uligocola_ and _modestus_. A comparison of ten pairs
+    of skulls of _uligocola_ from Boulder, Colorado, and topotypes of
+    _uligocola_ revealed no significant differences. These observations
+    are indicative of 1) the differences between samples and
+    populations which may be assigned to a single subspecies, and 2)
+    the fact that in general these local differences are less than the
+    differences between subspecies. From _insperatus_, the subspecies
+    to the north, _uligocola_ differs as follows: darker in both summer
+    and winter pelage; averaging larger in most measurements of the
+    skull; significantly longer molar tooth-row; hind foot averaging
+    longer. For comparisons with the subspecies to the east and the
+    northwest see the accounts of those below.
+
+_Remarks._--_M. p. uligocola_ is more closely restricted to wet
+situations than _M. ochrogaster haydeni_ (Baird) whose general range
+lies to the eastward. The numerous lakes, the continuous supply of
+water from the mountains, and the irrigation systems at lower altitudes
+along the eastern base of the mountains provide the conditions to which
+_uligocola_ is suited. It is named for its predilection for water.
+
+The variability in color is relatively greater in topotypes of both
+_uligocola_ and of _modestus_ than in many of the other series studied.
+Specimens from Denver and Colorado Springs taken in late autumn and
+winter (October to February) are paler, more reddish and less blackish,
+than specimens taken in June and July at Loveland. This reddishness
+results from longer, and more intensely reddish tips of the hair. The
+entire hairs also are longer. The average weight of 16 adults (12 males
+and 4 non-pregnant females) from near Loveland is 49.7 gms. The average
+length of the ear is 13.4.
+
+    _Specimens examined._--Total 228. _Colorado_: LARIMER CO.: 6 mi. W,
+    1/2 mi. S Loveland, 5200 ft., 18; 3 _mi. N Loveland_, 3;
+    _Loveland_, 4 (USBS). MORGAN CO.: 4 mi. W Orchard, 4 (Mich);
+    _Orchard_, 1 (Mich). BOULDER CO.: Boulder, 91 (USNM 19, UC 12, Chi
+    60 examined, additional specimens in the collection); _Valmont_, 4
+    (UC). CLEAR CREEK CO.: Clear Creek, N side of Idaho Springs, 1.
+    JEFFERSON CO.: Olivet, 10 (Denv). ADAMS CO.: Crook's Lake, 8
+    (Denv); Barr, 16 (Denv 15, ERW 1). ARAPAHOE CO.: Denver, 21 (USBS
+    3, AMNH 8, Denv 10). PARK CO.: William's Ranch, near Tarryall, 11
+    (Denv). TELLER CO.: Divide, 2 (ERW). EL PASO CO.: Colorado Springs,
+    31 (ERW 22, AMNH 7, MVZ 2); 12 mi. S Colorado Springs, 3 (MVZ).
+
+
+Microtus pennsylvanicus finitus new subspecies
+
+    _Type._--Adult female, skin and skull, number 50204, University of
+    Kansas, Museum of Natural History, obtained by J. K. Jones, Jr.,
+    original number 906, 5 miles north and 2 miles west of Parks in
+    Dundy County, Nebraska, on August 16, 1952.
+
+    _Range._--The valley of the north fork of the Republican River in
+    eastern Colorado and southwestern Nebraska.
+
+    _Diagnosis._--Entire animal and skull large; color dark for the
+    species; zygomatic breadth large; upper molars large and upper
+    molar tooth-row relatively long; braincase elongate; auditory
+    meatus relatively small; bullae large; incisors relatively
+    procumbent.
+
+    _Comparisons._--From _M. p. uligocola_, the subspecies to the west,
+    _M. p. finitus_ differs in darker color. These subspecies resemble
+    each other in large size and large molar teeth. A comparison of
+    nine pairs of skulls by the "method of pairs" shows three features
+    in which _finitus_ (from at, or near, the type locality) differs
+    from _uligocola_ (from at, or near, the type locality); in 7 of 9
+    pairs _finitus_ had a relatively more elongate braincase
+    (Confidence Limit .60); in 9 of 9 pairs _uligocola_ had larger
+    auditory meatuses (C. L. .99); in 7 of 9 pairs _uligocola_ had
+    relatively larger bullae (C. L. .80). From _M. p. pennsylvanicus_
+    (Ord) from eastern Nebraska and eastern South Dakota _finitus_
+    differs in larger size; darker color; larger molar teeth and longer
+    upper molar tooth-row. Five pairs of skulls were compared; in all 5
+    pairs, _finitus_ had more procumbent incisor teeth (C. L. .97) and
+    wider first upper molars (C. L. .97); and in 4 of 5 pairs _finitus_
+    had a relatively more elongate braincase (C. L. .60). From _M. p.
+    insperatus_, the subspecies to the north, _finitus_ differs as
+    follows: color darker, size larger, molar teeth relatively larger
+    and alveolar length of the upper molar tooth-row greater. Five
+    pairs of skulls were compared and in all 5 pairs _finitus_ had more
+    procumbent upper incisors (C. L. .97) than _insperatus_; in 4 of 5
+    pairs _insperatus_ had a relatively more elongate braincase (C. L.
+    .60), narrower first upper molariform tooth (C. L. .75), and
+    shorter distance between the alveoli of the first upper molars (C.
+    L. .88).
+
+_Remarks._--The species, _Microtus pennsylvanicus_, in Pleistocene time
+ranged onto the plains of Kansas as far southward as Meade County,
+Kansas (Hibbard, 1940:421). This occurrence indicates a cooler more
+humid climate then than now in southwestern Kansas. _M. p. finitus_ is
+more closely associated with water than _Microtus ochrogaster_, the
+only other species of _Microtus_ now occupying the same region,
+although both species have been captured at certain places in the same
+runways. In Nebraska, a marginal part of the range of the species, _M.
+pennsylvanicus_ has been taken at scattered localities. This scattered
+and localized distribution of suitable habitat undoubtedly limits
+gene-flow between these relict populations. Presumably as a result of
+this isolation _finitus_ has accumulated and maintained its distinctive
+characteristics. The subspecies is so named because of its limited
+range. The average weight of eight specimens (4 males and 4
+non-pregnant females) from Dundy County is 57.2 grams.
+
+    _Specimens examined._--Total 26. _Colorado_: YUMA CO.: Wray, 3
+    (USBS); _1 mi. W Laird_, 2. _Nebraska_: DUNDY CO.: 5 mi. N, 2 mi. W
+    Parks (Rock Creek State Fish Hatchery), 19; Haigler, 2 (USBS).
+
+
+Microtus pennsylvanicus pullatus new subspecies
+
+    _Type._--Adult male, skin and skull, number 37873, University of
+    Kansas, Museum of Natural History, obtained by Rollin H. Baker,
+    original number 1343, 12 miles north and 2 miles east of Sage, 6100
+    ft., in Lincoln County, Wyoming, on July 19, 1950.
+
+    _Range._--North-central Utah, eastern Idaho, western Wyoming, and
+    southwestern Montana. See Figures 1 and 2.
+
+    _Diagnosis._--Size average; color dark, especially in southern part
+    of range; tail relatively long; molar teeth small; nasals
+    relatively broad; maxillary septum relatively small.
+
+    _Comparisons._--From _M. p. uligocola_, the subspecies to the
+    southeast, _M. p. pullatus_ differs as follows: relatively darker
+    in southern part of its range (see Figure 1); smaller, tail
+    relatively longer. In 6 of 7 pairs of skulls compared of _pullatus_
+    (from Lincoln Co., Wyoming) and _uligocola_ (from Larimer Co.,
+    Colorado), _pullatus_ had relatively broader nasals (Confidence
+    Limit .85); _uligocola_ had larger maxillary septa (C. L. .97) and
+    larger molar teeth (C. L. .90). From _insperatus_, the subspecies
+    to the east, _pullatus_ differs as follows: both summer and winter
+    pelage darker; tail longer both actually and relatively; upper
+    molar tooth-row shorter. Ten pairs of skulls of specimens from near
+    Afton, Wyoming, representing _pullatus_, and from northeastern
+    Wyoming, representing _insperatus_, revealed no significant
+    differences in the features observed by the "method of pairs".
+    Although not compared in detail with the subspecies to the north,
+    _M. p. drummondi_ (Audubon and Bachman), examination of specimens
+    from western Montana and the accounts of other authors indicate
+    that topotypes of _pullatus_ are darker, longer-tailed, slightly
+    larger-skulled and perhaps longer over all.
+
+_Remarks._--In this subspecies there is a cline in color from dark in
+extreme southwestern Wyoming to pale in north-central Wyoming and
+Montana as the range of _M. p. insperatus_ is approached. There is thus
+a broad zone of intergradation in color and the line separating the
+subspecies must be drawn somewhat arbitrarily. In Wyoming the most
+distinct break in this cline is in the Big Horn Basin and if a detailed
+study of the species were made in Montana the break would probably be
+found where the mountains meet the plains, roughly as shown in Figure
+1. There is a similar cline in western Montana in color. The mice are
+paler farther north as one approaches the Canadian border although they
+do not become so pale as _insperatus_. Darkness is a characteristic of
+several non-adjacent subspecies of _Microtus pennsylvanicus_, for
+example _M. p._ _kincaidi_ Dalquest in central Washington (Dalquest,
+1948:347), _M. p. finitus_, and _M. p. nigrans_ Rhoads in eastern
+Virginia, but these subspecies presumably differ in other characters.
+
+Some morphological features of the same kind and degree that
+differentiate subspecies in one place may not vary geographically in
+another place. Furthermore the geographic variation in one feature may
+be only partly correlated with the variation in another feature. The
+variation in _M. p. pullatus_ is an example: Specimens from near
+Pocatello, Idaho, are darker than topotypes of _modestus_ but specimens
+from Fremont County, Idaho, are indistinguishable from topotypes of
+_modestus_ (Davis, 1939:315). I have examined a number of mice from the
+Bitterroot Valley in western Montana and the color value for 12 adults
+is 2.7. They are slightly but not significantly paler than topotypes of
+_modestus_. This is a result of the cline mentioned above and does not
+indicate relationship with _modestus_. Some average measurements of 10
+skulls from this series are as follows: condylobasilar length, 24.9;
+zygomatic breadth, 14.4; interorbital breadth, 3.4; lambdoidal breadth,
+11.5; prelambdoidal breadth, 9.1; alveolar length of upper molar teeth,
+6.5; and depth of braincase, 7.6. Average external measurements of 9
+specimens are as follows: total length, 157; length of tail, 36; length
+of hind feet, 19.4. Mice from the Bitterroot Valley were compared with
+topotypes of _modestus_ by the "method of pairs," and _modestus_ had a
+larger foramen magnum in 6 of 6 pairs (Confidence Limit .97) and larger
+first upper molar teeth in 5 of 6 pairs (C. L. .75).
+
+A comparison of topotypes of _pullatus_ with _modestus_ shows a similar
+difference in the teeth, _modestus_ being larger, but in the size of
+the foramen magnum there is no difference. A comparison of the
+measurements of _pullatus_ (Bitterroot Valley), _pullatus_ (near
+topotypes), and _modestus_ (topotypes) shows that the two series of
+topotypes differ significantly in condylobasilar length (of borderline
+significance), zygomatic breadth and lambdoidal breadth (both of which
+vary greatly with age), and length of molar series; the specimens from
+the Bitterroot Valley agree with _pullatus_ rather than _modestus_ in
+all of these characters. The specimens from the Bitterroot Valley are
+smaller than _pullatus_ (topotypes) in total length; they more closely
+resemble _modestus_ in length of tail, and the hind foot is shorter
+than in either _modestus_ or _pullatus_ (which do not differ
+significantly). Specimens from western Montana resemble _modestus_ in
+certain respects but in most respects resemble topotypes of _pullatus_
+and are referred to _pullatus_. Specimens from Coeur d'Alene, Idaho,
+and from Blackfoot, Montana (marginal records of _modestus_, Hall and
+Cockrum, 1953:410) may be referred to _drummondi_. Marginal records of
+_pullatus_ in Montana to my knowledge are: Florence, Ravalli Co.;
+Highwood Mtns., Chouteau Co.; 7 mi. NE Hilger, Fergus Co.; 10 mi. NW
+Park City, Stillwater Co. (all represented by specimens in the USBS).
+The line separating _pullatus_ and _drummondi_ is tentatively drawn as
+shown in Figure 1.
+
+    _Specimens examined._--Total 256. _Wyoming_: YELLOWSTONE NATIONAL
+    PARK: Mammoth Hot Springs, 17 (USNM). PARK CO.: 3-1/5 mi. E, 3/5
+    mi. S Cody, 5020 ft., 15. TETON CO.: _Whetstone Creek_, 4 (Mich); 5
+    mi. N Moran, 13 (Mich); _Moran and environs_ (_4 localities within
+    4 miles of Moran_), 6200 ft., 54; Teton Park, Trappers Lake, 3
+    (Mich); _Teton Park, Jenny Lake_, 1 (Mich); _Teton Park, String
+    Lake_, 1 (Mich); Sheep Creek, 1 (Mich); _Jackson and environs_, 115
+    (Mich 113, USBS 1). SUBLETTE CO.: 34 mi. N, 4 mi. W Pinedale, 7950
+    ft., 2; Kendall, 5 (Mich). LINCOLN CO.: 9-1/2 mi. N, 2 mi. W Afton,
+    6100 ft., 1; _9 mi. N, 2 mi. W Afton_, 3; _7 mi. N, 1 mi. W Afton_,
+    11; _15 mi. N, 3 mi. E Sage_, 6100 ft., 1; _12 mi. N, 2 mi. E
+    Sage_, 4; 6 mi. N, 2 mi. E Sage, 2.
+
+
+Microtus pennsylvanicus insperatus (Allen)
+
+        _Arvicola insperatus_ Allen, Bull. Amer. Mus. Nat. Hist.,
+        6:347, December 7, 1894.
+
+        _Microtus pennsylvanicus insperatus_, Anderson, Canadian
+        Field-Nat., 57:92, October 17, 1943.
+
+        _Microtus pennsylvanicus wahema_ Bailey, Jour. Mamm., 1:72,
+        March 2, 1920.
+
+    _Type._--Adult male, skin and skull, number 8105/6731 American
+    Museum of Natural History, obtained by W. W. Granger, at Custer,
+    Black Hills, South Dakota, August 9, 1894.
+
+    _Range._--Western South Dakota, southwestern North Dakota, eastern
+    Montana, southern Alberta and Saskatchewan, eastern Montana, and
+    northeastern Wyoming.
+
+    _Comparisons._--_Microtus pennsylvanicus insperatus_ is paler than
+    any adjacent subspecies. It has been compared with _pullatus_ in
+    the preceding account. Bailey's studies of _M. p. wahema_
+    [=_insperatus_] and his comparisons with _M. p. pennsylvanicus_ and
+    _M. p. drummondi_ to the east and north, in North Dakota (1920,
+    1927), are the basis for the northern and eastern boundaries of the
+    range of _insperatus_ in Figure 1. Comparison of _insperatus_ with
+    _finitus_ to the south is made in the account of the latter.
+
+
+TABLE 1. AVERAGE MEASUREMENTS (IN MILLIMETERS) OF ADULT MICROTUS
+PENNSYLVANICUS
+
+========================+======+========+=======+=======+=========+=======
+                        |      |        |       |       |         |
+                        |No. of|        | Length| Length| Condylo-| Zygo-
+      Locality          |adults|  Total |   of  |   of  | basilar | matic
+      (or area)         | ave- | length |  tail |  hind | length, |breadth
+                        |raged |        |       |  feet |  skull  |
+                        |      |        |       |       |         |
+------------------------+------+--------+-------+-------+---------+-------
+                        |
+                        |        _M. p. insperatus_, Wyoming
+                        |
+Crook and Campbell Cos. |  12  |  166.5 |  41.4 |  20.7 |  25.85  | 14.80
+Sheridan County         |  20  |  169.5 |  46.7 |  21.2 |  26.20  | 15.25
+Johnson County          |  20  |  167.8 |  47.9 |  20.7 |  25.67  | 15.29
+Weston County, mean     |  15  |  161.0 |  39.8 |  20.7 |  25.55  | 14.91
+ " Co., stand. dev.     |  ... |   11.3 |   3.0 |   0.6 |    .82  |   .43
+ " Co., minimum         |  ... |  150.  |  35.  |  20.  |  24.2   | 14.2
+ " Co., maximum         |  ... |  168.  |  45.  |  22.  |  26.8   | 15.6
+------------------------+------+--------+-------+-------+---------+-------
+                        |
+                        |         _M. p. pullatus_, Wyoming
+                        |
+Park County             |  10  |  164.8 |  44.5 |  20.3 |  25.96  | 15.92
+Teton County            |  20  |  161.9 |  43.6 |  19.8 |  25.59  | 14.68
+Sage, Lincoln Co.       |   6  |  165.0 |  47.2 |  21.2 |  25.87  | 14.93
+Afton, "   " , mean     |  14  |  163.3 |  48.8 |  20.8 |  25.59  | 14.70
+  "  , stand. dev.      |  ... |    7.4 |  10.4 |   1.4 |   1.00  |   .61
+  "  , minimum          |  ... |  142.  |  39.  |  19.  |  24.5   | 13.8
+  "  , maximum          |  ... |  181.  |  57.  |  23.  |  27.5   | 15.9
+------------------------+------+--------+-------+-------+---------+-------
+                        |
+                        |        _M. p. uligocola_, Colorado
+                        |
+Park Co. (Denv)         |   7  |        |       |       |  26.00  | 15.40
+Boulder Co. (Chi)       |  30  |  171.2 |  43.0 |  22.2 |  26.53  | 15.28
+Denver                  |   8  |  156.9 |  40.0 |  21.3 |  26.77  | 15.31
+Colorado Springs        |  16  |  158.4 |  41.4 |  21.1 |  26.40  | 15.43
+Loveland, mean          |  16  |  166.0 |  46.6 |  21.5 |  26.54  | 15.60
+   "  , stand. dev.     |  ... |   15.9 |   5.9 |   0.8 |   1.42  |  1.23
+   "  , minimum         |  ... |  142.  |  38.  |  20.  |  24.6   | 13.9
+   "  , maximum         |  ... |  192.  |  56.  |  23.  |  29.4   | 17.8
+------------------------+------+--------+-------+-------+---------+-------
+                        |
+                        |             _M. p. finitus_
+                        |
+Wray, Colorado          |   3  |  169.0 |  39.3 |  22.3 |  27.30  | 16.20
+Dundy Co., Nebr., mean  |  12  |  165.8 |  42.6 |  21.8 |  27.65  | 16.10
+   "  , stand. dev.     |  ... |   16.5 |   5.2 |   0.7 |   2.57  |   .92
+   "  , minimum         |  ... |  147.  |  36.  |  21.  |  25.0   | 14.7
+   "  , maximum         |  ... |  202.  |  55.  |  23.  |  29.7   | 17.6
+------------------------+------+--------+-------+-------+---------+-------
+                        |
+                        |        _M. p. modestus_, Colorado
+                        |
+Alamosa, Colorado       |   3  |  160.7 |  46.3 | 22.0  |  25.57  | 15.00
+Cochetopa Pass, Colo.   | 25[1]|  172.7 |  44.7 |  21.2 |  26.42  | 15.43
+   "  , stand. dev.     |  ... |    8.8 |   3.1 |   0.8 |    .69  |   .52
+   "  , minimum         |  ... |  160.  |  38.  |  20.  |  25.2   | 14.6
+   "  , maximum         |  ... |  191.  |  51.  |  23.  |  28.5   | 16.8
+------------------------+------+--------+-------+-------+---------+-------
+
+      [1] 29 specimens were used in taking measurements of the skull.
+
+========================+======+========+=======+=======+=========+=======
+                        |No.   | Lamb-  |Pre-   | Molar | Inter-  |Depth |
+Locality                |of    | doidal |lamb-  | length| orbital |of    |
+(or area)               |adults| breadth|doidal | (al-  | breadth |brain-|
+                        |aver- |        |breadth|veolar)|         |case  |
+                        |aged  |        |       |       |         |      |
+------------------------+------+--------+-------+-------+---------+-------
+                        |
+                        |    _M. p. insperatus_, Wyoming
+                        |
+Crook and Campbell Cos. |  12  |  11.70 |  9.05 |  6.90 |   3.52  | 7.92 |
+Sheridan County         |  20  |  12.20 |  9.33 |  6.90 |   3.55  | 7.95 |
+Johnson County          |  20  |  12.04 |  9.02 |  7.14 |   3.52  | 7.84 |
+Weston Co., mean        |  15  |  12.03 |  9.25 |  6.84 |   3.60  | 8.02 |
+  "    "    stand. dev. |  ... |    .40 |   .37 |   .16 |    .13  |  .23 |
+  "    "    minimum     |  ... |  11.4  |  8.7  |  6.6  |   3.4   | 7.7  |
+  "    "    maximum     |  ... |  12.7  |  9.9  |  7.2  |   3.8   | 8.5  |
+------------------------+------+--------+-------+-------+---------+-------
+                        |
+                        |         _M. p. pullatus_, Wyoming
+                        |
+Park County             |  10  |  12.34 |  9.52 |  6.72 |   3.50  | 8.30 |
+Teton County            |  20  |  11.58 |  8.98 |  6.77 |   3.54  | 7.66 |
+Sage, Lincoln Co.       |   6  |  11.87 |  9.08 |  6.77 |   3.58  | 7.88 |
+Afton,  "     " mean    |  14  |  11.74 |  9.06 |  6.53 |   3.55  | 7.90 |
+  "  , stand. dev.      |  ... |    .50 |   .15 |   .23 |    .12  |  .43 |
+  "  , minimum          |  ... |  11.0  |  8.9  |  6.1  |   3.2   | 7.1  |
+  "  , maximum          |  ... |  12.5  |  9.4  |  7.0  |   3.6   | 8.2  |
+------------------------+------+--------+-------+-------+---------+-------
+                        |
+                        |          _M. p. uligocola_, Colorado
+                        |
+Park Co. (Denv)         |   7  |  12.20 |  9.40 |  7.07 |   3.60  | 7.91 |
+Boulder Co. (Chi)       |  30  |  12.14 |  9.24 |  7.07 |   3.36  | 7.85 |
+Denver                  |   8  |  12.23 |  9.35 |  7.27 |   3.55  | 7.99 |
+Colorado Springs        |  16  |  12.18 |  9.22 |  7.20 |   3.43  | 7.89 |
+Loveland, mean          |  16  |  12.31 |  9.46 |  7.14 |   3.59  | 8.14 |
+   "    , stand. dev.   |  ... |    .65 |   .41 |   .32 |    .16  |  .42 |
+   "    , minimum       |  ... |  11.4  |  9.0  |  6.8  |   3.3   | 7.5  |
+   "    , maximum       |  ... |  13.8  | 10.6  |  7.6  |   3.8   | 9.4  |
+------------------------+------+--------+-------+-------+---------+-------
+                        |
+                        |            _M. p. finitus_
+                        |
+Wray, Colorado          |   3  |  12.30 |  9.43 |  7.40 |   3.53  | 8.23 |
+Dundy Co., Nebr., mean  |  12  |  12.64 |  9.39 |  7.52 |   3.66  | 8.22 |
+ "    "  , stand. dev.  |  ... |    .61 |   .40 |   .31 |    .26  |  .43 |
+ "    "  , minimum      |  ... |  11.6  |  8.5  |  7.0  |   3.2   | 7.6  |
+ "    "  , maximum      |  ... |  13.5  |  9.8  |  7.9  |   3.9   | 8.7  |
+------------------------+------+--------+-------+-------+---------+-------
+                        |
+                        |          _M. p. modestus_, Colorado
+                        |
+Alamosa, Colorado       |  3   |  11.97 |  9.27 |  6.83 |   3.60  | 8.01 |
+Cochetopa Pass, Colo.   | 25[1]|  12.16 |  9.04 |  6.81 |   3.54  | 8.18 |
+     "   , stand. dev.  |  ... |    .37 |   .31 |   .21 |    .14  |  .23 |
+     "   , minimum      |  ... |  11.4  |  8.6  |  6.5  |   3.3   | 7.7  |
+     "   , maximum      |  ... |  13.1  | 10.0  |  7.5  |   3.9   | 8.8  |
+------------------------+------+--------+-------+-------+---------+-------
+
+      [1] 29 specimens were used in taking measurements of the skull.
+
+_Remarks._--Bailey (1900:20) had only 7 specimens from northeastern
+Wyoming and western South Dakota, of _M. pennsylvanicus_ and thought
+that _Arvicola insperatus_ Allen (1894:347) was not subspecifically
+distinct from _modestus_. Subsequently Bailey (1920:72) had adequate
+numbers of specimens and described _Microtus pennsylvanicus wahema_
+from eastern Montana and western North Dakota. Anderson (1943:92)
+concluded that _wahema_ was not distinct from _insperatus_ and
+therefore the name _M. p. insperatus_ (Allen) is applicable to this
+subspecies. On the basis of specimens that I have examined from
+Montana, South Dakota, and Wyoming I concur with Anderson. Bailey's
+characterization of _wahema_ is applicable to _insperatus_ as I
+interpret it. In the Black Hills, _Microtus longicaudus longicaudus_
+(Merriam) occurs together with _insperatus_.
+
+    _Specimens examined._--Total 123. _Wyoming_: SHERIDAN CO.: 3 mi.
+    WNW Monarch (=Kleeburn), 3800 ft., 4; 4 mi. NNE Banner, 4100 ft.,
+    26; 5 mi. NE Clearmont, 3900 ft., 3. JOHNSON CO.: 5-1/2 mi. W, 1
+    mi. S Buffalo, 5520 ft., 1; _5-1/2 mi. W, 1-1/2 mi. S Buffalo_, 1;
+    _1 mi. W, 4/5 mi. S Buffalo_, 4800 ft., 36; 1/4 mi. E Klondike,
+    5160 ft., 1. CAMPBELL CO.: Belle Fourche River, 45 mi. S, 13 mi. W
+    Gillette, 5350 ft., 2. CROOK CO.: 3 mi. S, 2 mi. E Rocky Point,
+    3800 ft., 6; Bear Lodge Mts., 6-1/2 mi. SSE Alva, 1 (Mich); _15 mi.
+    N Sundance_, 5500 ft., 3; 15 mi. ENE Sundance, 3825 ft., 6; _3 mi.
+    NW Sundance_, 5900 ft., 1; _1-1/3 mi. NW Sundance_, 5000 ft., 4;
+    Sundance, 1 (USBS). WESTON CO.: 1-1/2 mi. E Buckhorn, 6150 ft., 26;
+    Newcastle, 1 (USBS).
+
+
+GENERAL REMARKS
+
+The region considered in this paper differs in several regards from the
+state of Pennsylvania, where variation in the skulls of this species
+has been studied in detail by Snyder (1954) who referred all
+populations there to a single subspecies. In some characteristics of
+the skulls, populations within Pennsylvania differed as much or more
+than the subspecies from Wyoming and Colorado. In other characteristics
+of the skulls and of the skins differences are greater between
+populations in Wyoming and Colorado. The region discussed here is
+approximately five times as large as the state of Pennsylvania.
+Populations of _M. pennsylvanicus_ are less continuously distributed
+than in Pennsylvania owing to major physiographic and climatic barriers
+and also owing to competition with one or more of the five other
+species of _Microtus_ occurring in this region. The distribution of
+three of these species has been discussed by Findley (1945:419). Large
+areas of relatively greater aridity, such as the region occupied by the
+subspecies _insperatus_, occur in Wyoming and Colorado. I have pointed
+out that the populations which I have designated as subspecies are not
+absolutely uniform. Also the different subspecies are not of exactly
+equal degrees of difference. However, there is considerable uniformity
+of populations occupying conveniently mapped geographic areas. In my
+opinion, the use of subspecific nomenclature is justified in this case,
+although not completely unambiguous.
+
+
+LITERATURE CITED
+
+ALLEN, J. A.
+
+    1894. Descriptions of five new North American mammals. Bull. Amer.
+    Mus. Nat. Hist., 6:347-350, December 7.
+
+ANDERSON, R. M.
+
+    1943. A prior name for the bean mouse revived. Canadian Field-Nat.,
+    57:92, October 17.
+
+ANDERSON, S.
+
+    1954. Subspeciation in the montane meadow mouse, Microtus montanus,
+    in Wyoming and Colorado. Univ. Kansas Publ., Mus. Nat. Hist.,
+    7(7):489-506, 2 figs. in text, July 23.
+
+BAILEY, V.
+
+    1900. Revision of American voles of the genus Microtus. N. Amer.
+    Fauna, 17:1-88, 5 pls., 17 figs., June 6.
+
+    1920. Identity of the bean mouse of Lewis and Clark. Jour. Mamm.
+    1:70-72, March 1.
+
+    1927. A biological survey of North Dakota. N. Amer. Fauna, 49:vi+
+    226, 21 pls., 8 figs. in text, January 8.
+
+    1932. Mammals of New Mexico. N. Amer. Fauna, 53:1-412, 22 pls., 57
+    figs. in text, March 1.
+
+BAIRD, S. F.
+
+    1858. Explorations and surveys for a railroad route from the
+    Mississippi River to the Pacific Ocean. War Department. Mammals,
+    Part I, xxxii + 757, pls. 17-60, 35 figs. in text, July 14.
+
+DALQUEST, W. W.
+
+    1948. Mammals of Washington. Univ. Kansas Publ., Mus. Nat. Hist.,
+    2:1-444, 140 figs. in text, April 9.
+
+DAVIS, W. B.
+
+    1939. The Recent mammals of Idaho. The Caxton Printers, Caldwell,
+    Idaho, 400 pp., 2 full page half tones, 33 figs. in text, April 5.
+
+DURRANT, S. D.
+
+    1952. Mammals of Utah, taxonomy and distribution. Univ. Kansas
+    Publ., Mus. Nat. Hist., 6:1-549, 91 figs. in text, 30 tables,
+    August 10.
+
+ELLERMAN, J. R.
+
+    1941. The families and genera of living rodents. Volume II. Family
+    Muridae. The British Museum. xii + 690 pp., 50 figs. in text, March
+    21.
+
+FINDLEY, J. S.
+
+    1954. Competition as a possible limiting factor in the distribution
+    of _Microtus_. Ecology, 35:418-420, July.
+
+HALL, E. R., and E. L. COCKRUM
+
+    1952. Comments on the taxonomy and geographic distribution of North
+    American microtines. Univ. Kansas Publ., Mus. Nat. Hist.,
+    5:293-312, November 17.
+
+    1953. A synopsis of the North American microtine rodents. Univ.
+    Kansas Publ., Mus. Nat. Hist., 5:373-498, 149 figs. in text,
+    January 15.
+
+HIBBARD, C. W.
+
+    1940. A new Pleistocene fauna from Meade County, Kansas. Trans.
+    Kansas Acad. Sci., 43:417-425, December 23.
+
+HOWELL, A. B.
+
+    1926. Anatomy of the wood rat. Monogr. Amer. Soc. Mamm. No. 1, x +
+    225 pp., 35 figs., Williams and Wilkins Co., Baltimore.
+
+SNYDER, D. P.
+
+    1954. Skull variation in the meadow vole (_Microtus p. pennsylvanicus_)
+    in Pennsylvania. Annals of the Carnegie Museum, 33:201-234,
+    September 21.
+
+WARREN, E. R.
+
+    1942. The mammals of Colorado. Univ. Oklahoma Press, xviii + 330
+    pp., 50 pls.
+
+
+_Transmitted June 30, 1955._
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Subspeciation in the Meadow Mouse,
+Microtus pennsylvanicus, in Wyoming, Colorado, and Adjacent Areas, by Sydney Anderson
+
+*** END OF THIS PROJECT GUTENBERG EBOOK SUBSPECIATION IN THE MEADOW MOUSE ***
+
+***** This file should be named 33204.txt or 33204.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/3/2/0/33204/
+
+Produced by Chris Curnow, Joseph Cooper and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -22,7 +22,7 @@ class ComputeApp(args: Args) extends CascadeJob(args) {
   }
 
   override def jobs(): Seq[Job] = {
-    Seq[Job](new WordCountJob(args) /*,  new MakeWordQueriesJob(args) */)
+    Seq[Job](/* new WordCountJob(args) ,*/  new MakeWordQueriesJob(args) )
   }
 
 }
