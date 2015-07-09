@@ -37,13 +37,13 @@ class MakeWordQueriesJob(args: Args) extends CommonJob(args) with Serializable w
 
   val s = TypedPipe.from(TextLine(inputs))
 
-  val text = (if (isTez) {
-      s.filterNot(_.trim.isEmpty)
-        .forceToDisk // Tez trick; or most of the work happens in a single node (bad). Measured to be a wash on hadoop
+  val text = (if (false && isTez) {
+      s.forceToDisk // Tez trick; or most of the work happens in a single node (bad). Measured to be a wash on hadoop
             // conditionalizing the .forceToDisk to remain "on the safe side" for now.
     } else {
-      s.filterNot(_.trim.isEmpty)
+      s
     })
+    .filterNot(_.trim.isEmpty)
     .map(x => splitCleanString(x))
 
   def nGrams(size: Int) = size match {
