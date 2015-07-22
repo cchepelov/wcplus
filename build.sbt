@@ -7,7 +7,10 @@ scalacOptions ++= Seq("-feature", "-unchecked", "-deprecation")
 
 
 val scaldingVersion = "0.13.1-cch-ffc2"
-val cascadingVersion = "3.0.1"
+val cascadingVersion = "3.0.2-wip-135"
+//val cascadingVersion = "3.0.1"
+//val cascadingVersion = "2.6.3"
+
 val cascadingVersionHbase = "3.0.0"
 
 val hadoopVersion = "2.6.0"
