@@ -7,9 +7,25 @@ scalacOptions ++= Seq("-feature", "-unchecked", "-deprecation")
 
 
 val scaldingVersion = "0.13.1-cch-ffc2"
-val cascadingVersion = "3.0.2-wip-135"
-//val cascadingVersion = "3.0.1"
-//val cascadingVersion = "2.6.3"
+
+
+val defaultCascadingVersion = "3.0.2-wip-146"
+
+
+//val defaultCascadingVersion = "3.0.2-wip-dev" // from July 23rd  // OK ON TEZ
+//val defaultCascadingVersion = "3.0.2-wip-140" // fails, 20 nodes
+// val defaultCascadingVersion = "3.1.0-wip-4"
+
+
+//val defaultCascadingVersion = "3.0.2-wip-139" // fails, 20 nodes
+//val defaultCascadingVersion = "3.0.2-wip-136"
+//val defaultCascadingVersion = "3.0.2-wip-dev"
+//val defaultCascadingVersion = "3.0.1"
+//val defaultCascadingVersion = "2.6.3"
+
+//val defaultCascadingVersion = "2.6.3"
+
+val cascadingVersion = sys.props.getOrElse("CASCADING_VERSION", defaultCascadingVersion)
 
 val cascadingVersionHbase = "3.0.0"
 
@@ -19,6 +35,13 @@ val apacheTezVersion = "0.6.1"
 val cascadingFabric = sys.props.getOrElse("CASCADING_FABRIC", "hadoop2-tez") // can be "hadoop", "hadoop2-mr1" or "hadoop2-tez"
 
 resolvers += Resolver.mavenLocal
+
+libraryDependencies ++= (if (cascadingVersion.endsWith("-dev")) Seq(
+	"org.jgrapht" % "jgrapht-core" % "0.9.1",
+    "org.jgrapht" % "jgrapht-ext" % "0.9.1",
+    "riffle" % "riffle" % "1.0.0-wip-7",
+    "org.codehaus.janino" % "janino" % "2.7.6"
+) else Nil)
 
 
 libraryDependencies ++= Seq(
@@ -114,10 +137,28 @@ libraryDependencies ++= Seq(
       "cascading" % "cascading-hadoop" % cascadingVersion % "test",
       "org.apache.tez" % "tez-api" % apacheTezVersion
         exclude ("asm","asm"),
-      "org.apache.tez" % "tez-mapreduce" % apacheTezVersion
+      "org.apache.tez" % "tez-mapreduce" % apacheTezVersion,
+      "org.apache.tez" % "tez-dag" % apacheTezVersion
     )
     case _ => Seq(
       "cascading" % "cascading-hadoop" % cascadingVersion % "test"
     )
   })
+
+ivyXML :=
+  <dependencies>
+    <exclude org="tomcat" name="jasper-compiler" />
+    <exclude org="tomcat" name="jasper-runtime" />
+    <exclude org="tomcat" name="jsp-api" />
+    <exclude org="org.mortbay.jetty" name="jsp-api" />
+    <exclude org="org.mortbay.jetty" name="jsp-api-2.1" />
+    <exclude org="org.mortbay.jetty" name="jsp-2.1" />
+    <exclude org="org.mortbay.jetty" name="servlet-api-2.5" />
+    <exclude org="javax.servlet" name="servlet-api" />
+    <exclude org="javax.servlet" name="jsp-api" />
+    <exclude org="javax.servlet.jsp" name="servlet-api" />
+
+    <exclude org="stax" name="stax-api" />
+  </dependencies>
+
 
