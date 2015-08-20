@@ -27,6 +27,7 @@ FLAGS="$FLAGS -Dcascading.planner.plan.transforms.path=/tmp/plan-wcplus/xforms.l
 FLAGS="$FLAGS -Dorg.slf4j.simpleLogger.log.org.apache.tez.runtime.library.common.writers=DEBUG"
 FLAGS="$FLAGS -Dorg.slf4j.simpleLogger.defaultLogLevel=DEBUG -Dsun.io.serialization.extendedDebugInfo=true "
 FLAGS="$FLAGS -Dorg.slf4j.simpleLogger.log.cascading.flow.stream.graph.StreamGraph=DEBUG"
+FLAGS="$FLAGS -Dlog4j.configuration=file:/home/cchepelov/workspace/demo/wcplus/src/main/resources/log4j.properties"
 
 JAR=`ls -t target/scala-2.11/wcplus-*.jar|head -1`
 

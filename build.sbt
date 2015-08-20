@@ -30,11 +30,18 @@ val cascadingVersion = sys.props.getOrElse("CASCADING_VERSION", defaultCascading
 val cascadingVersionHbase = "3.0.0"
 
 val hadoopVersion = "2.6.0"
-val apacheTezVersion = "0.6.1"
+val apacheTezVersion = "0.6.2"
 
 val cascadingFabric = sys.props.getOrElse("CASCADING_FABRIC", "hadoop2-tez") // can be "hadoop", "hadoop2-mr1" or "hadoop2-tez"
 
 resolvers += Resolver.mavenLocal
+
+libraryDependencies ++= Seq(
+    "cascading" % "cascading-hadoop2-io" % cascadingVersion
+    
+    ///"org.apache.hadoop" % "hadoop-common" % "2.7.1",
+    // "org.apache.hadoop" % "hadoop-mapreduce-client-core" % "2.7.1"
+)
 
 libraryDependencies ++= (if (cascadingVersion.endsWith("-dev")) Seq(
 	"org.jgrapht" % "jgrapht-core" % "0.9.1",
@@ -158,6 +165,9 @@ ivyXML :=
     <exclude org="javax.servlet" name="jsp-api" />
     <exclude org="javax.servlet.jsp" name="servlet-api" />
 
+    <exclude org="org.apache.hadoop" name="hadoop-yarn-client" /> <!-- 2.6.0 -->
+    <exclude org="asm" name="asm" />
+    
     <exclude org="stax" name="stax-api" />
   </dependencies>
 
