@@ -22,11 +22,15 @@ FLAGS="-Xmx${HADOOP_HEAPSIZE}m"
 FLAGS="$FLAGS -Dcascading.planner.plan.path=/tmp/plan-wcplus/plan.lst"
 FLAGS="$FLAGS -Dcascading.planner.stats.path=/tmp/plan-wcplus/stats.lst"
 FLAGS="$FLAGS -Dcascading.planner.plan.transforms.path=/tmp/plan-wcplus/xforms.lst"
+
 #FLAGS="$FLAGS -Dcascading.cascade.maxconcurrentflows=1"
 #FLAGS="$FLAGS -Dtest.profile.node=E4DB7E97D232413E91842D31D53B5F19 -Dtest.profile.path=/tmp/jfr/"
-FLAGS="$FLAGS -Dorg.slf4j.simpleLogger.log.org.apache.tez.runtime.library.common.writers=DEBUG"
-FLAGS="$FLAGS -Dorg.slf4j.simpleLogger.defaultLogLevel=DEBUG -Dsun.io.serialization.extendedDebugInfo=true "
-FLAGS="$FLAGS -Dorg.slf4j.simpleLogger.log.cascading.flow.stream.graph.StreamGraph=DEBUG"
+
+#FLAGS="$FLAGS -Dcascading.management.document.service.archive.dir=/tmp/plan-wcplus/docserv.archive"
+#FLAGS="$FLAGS -Dcascading.stats.complete_child_details.block.duration=6000000"
+#FLAGS="$FLAGS -Dorg.slf4j.simpleLogger.log.org.apache.tez.runtime.library.common.writers=DEBUG"
+#FLAGS="$FLAGS -Dorg.slf4j.simpleLogger.defaultLogLevel=DEBUG -Dsun.io.serialization.extendedDebugInfo=true "
+#FLAGS="$FLAGS -Dorg.slf4j.simpleLogger.log.cascading.flow.stream.graph.StreamGraph=DEBUG"
 
 # wtf: not very secure about where and why log4j takes this properties file today. Force it.
 FLAGS="$FLAGS -Dlog4j.configuration=file:$PWD/src/main/resources/log4j.properties"
